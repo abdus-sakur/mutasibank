@@ -1,0 +1,12 @@
+.ket {
+  width: 500px;
+}
+.no {
+  width: 20px;
+}
+.tgl {
+  width: 145px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
